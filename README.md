@@ -1,2 +1,2 @@
-# jornadas_mdp_2023
-Presentación de ponencia "La estructura de clases argentina en las dos últimas décadas"
+# La estructura de clases argentina en las dos últimas décadas
+Presentación de ponencia "La estructura de clases argentina en las dos últimas décadas" de Eduardo Chávez Molina (echavezmolina@gmail.com) y José Rodríguez de la Fuente (jrodriguez@conicet.gov.ar).
